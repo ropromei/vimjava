@@ -1,1 +1,1 @@
-java -cp "out" Main
+java -cp "out" Main $1 $2

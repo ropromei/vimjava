@@ -7,6 +7,7 @@ Testing Neovim with plugins to create Java project from scratch
 | ----------- | ----------------------------------------------------- |
 | compile.sh  | creates class files                                   |
 | build.sh    | creates class files and builds vimajava.jar from them |
+| run.sh      | runs created class files directly                     |
 
 ## .jar-archive running
 
